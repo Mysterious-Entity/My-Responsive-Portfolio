@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Pellet.wav-1a6d60cba44624157e81d141430f61f9.sample"
+
+[deps]
+
+source_file="res://04C2DPacClamGameAsset/UI+SFX/Pellet.wav"
+dest_files=[ "res://.import/Pellet.wav-1a6d60cba44624157e81d141430f61f9.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
